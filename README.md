@@ -1,0 +1,1 @@
+An extensive sales study of a store with locations across the globe is shown in the Power BI report. The report features interactive visuals that show the store's sales and profit based on market, region, city, state and country.
